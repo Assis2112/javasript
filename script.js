@@ -134,5 +134,37 @@
 //console.log(`5x9= ${resutado9}`)
 
 //quarta
-let numberone = 5
-let pot = numberone ** 
+
+//let number1= 8
+//let number2= 2
+//let pot = number1 ** number2
+//console.log(` A potencia de ${number1} e ${number2} é ${pot}`)
+
+//quinta
+
+//let n1 = 8
+//let n2 = 9
+//let n3 = 10
+//let media = (n1 + n2 + n3) / 3;
+//console.log("media", media);
+//if (media >=7){
+    //console.log ("aprovado");
+//}else if (media >= 5){
+    //console.log ("recuperação")
+//}else{
+    //console.log("reprovado");
+//}
+
+//sexta
+
+//console.log (`10`)
+//console.log (`9`)
+//console.log (`8`)
+//console.log (`7`)
+//console.log (`6`)
+//console.log (`5`)
+//console.log (`4`)
+//console.log (`3`)
+//console.log (`2`)
+//console.log (`1`)
+//console.log (`0`)
