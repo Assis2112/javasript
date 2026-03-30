@@ -133,6 +133,10 @@
 //console.log(`5x8= ${resutado8}`)
 //console.log(`5x9= ${resutado9}`)
 
+//for (let i = 1; i <= 100; i++) {
+  //  console.log("5 x " + i + "=" + (5 * i))
+//}
+
 //quarta
 
 //let number1= 8
@@ -148,11 +152,11 @@
 //let media = (n1 + n2 + n3) / 3;
 //console.log("media", media);
 //if (media >=7){
-    //console.log ("aprovado");
+//console.log ("aprovado");
 //}else if (media >= 5){
-    //console.log ("recuperação")
+//console.log ("recuperação")
 //}else{
-    //console.log("reprovado");
+//console.log("reprovado");
 //}
 
 //sexta
@@ -168,3 +172,7 @@
 //console.log (`2`)
 //console.log (`1`)
 //console.log (`0`)
+
+for (let i = 10; i >= 0; i--) {
+    console.log(i)
+}
